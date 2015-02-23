@@ -2,5 +2,4 @@
 
 Hello!!World!!
 
-I'm a teacher.
-
+I'm a god.
