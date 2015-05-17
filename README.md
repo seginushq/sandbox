@@ -2,6 +2,4 @@
 
 Hello!!World!!
 
-I'm a teacher.
-You are student.
-
+I'm a member of seginus.'
